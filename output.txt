@@ -1,0 +1,12 @@
+Light is ON
+Light is OFF
+Cannot set temperature, thermostat is off.
+Thermostat is OFF
+Cannot set temperature, thermostat is off.
+Smart Lock is UNLOCKED
+Smart Lock is LOCKED
+Garage Door is OPEN
+Garage Door is CLOSED
+
+C:\Users\ravi8\source\repos\Project4\Release\Project4.exe (process 28212) exited with code 0.
+Press any key to close this window . . .
